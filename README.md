@@ -4,10 +4,10 @@
 - Daniela Gonzalez Ortiz
 - Belén Shalom Dueñas Pacheco
 
-## 2. URL del Dashboard Desplegado 🌐
-👉 **[INSERTAR URL DE STREAMLIT COMMUNITY CLOUD AQUÍ]**
+## 2. URL del Dashboard Desplegado 
+ **[https://ml-premier-league-jaxujexnfjcpm6fp3vw3qv.streamlit.app/]**
 
-## 3. Descripción Breve del *Approach* y *Features* Utilizadas 🔬
+## 3. Descripción Breve del *Approach* y *Features* Utilizadas 
 Este proyecto implementa un pipeline analítico y predictivo enfocado en los remates y eventos de fútbol.
 
 **Approach Metodológico:**
