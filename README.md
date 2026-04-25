@@ -1,4 +1,4 @@
-# Proyecto ML: Premier League Analytics ⚽
+# Proyecto ML: Premier League Analytics 
 
 ## 1. Integrantes
 - Daniela Gonzalez Ortiz
@@ -20,7 +20,7 @@ Este proyecto implementa un pipeline analítico y predictivo enfocado en los rem
 * **Contextuales:** `Minute` (Minuto del remate), `Pressure_Index` (Índice de aglomeración defensiva), `Is_Fast_Break` (Contraataque rápido).
 * **Binarias/Categóricas:** `Is_Big_Chance` (Ocasión inmejorable), `Is_Header` (Remate de cabeza).
 
-## 4. Instrucciones para Ejecutar el Notebook y Dashboard localmente 💻
+## 4. Instrucciones para Ejecutar el Notebook y Dashboard localmente 
 
 **Paso 1: Preparación del Entorno**
 Asegúrese de clonar el repositorio, abrir una terminal en la misma ruta y ejecutar los requerimientos pertinentes:
